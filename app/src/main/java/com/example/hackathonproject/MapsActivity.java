@@ -1,4 +1,4 @@
-package com.example.hackathonproject;
+package com.example.hackathonproject;   // If you see this then Github is working 
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
